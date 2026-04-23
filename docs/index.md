@@ -116,4 +116,6 @@ Visit our [Introduction to NVivo 14/15 for Mac](https://mdl.library.utoronto.ca/
 
 Check out [this NVivo help page](https://help-nv.qsrinternational.com/15/mac/Content/files/files.htm) to explore all the file types you can import into an NVivo project.
 
+**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
+
 **Date Created:** 2023\-11\-20**Updated:** 2026\-02\-09
