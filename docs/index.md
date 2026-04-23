@@ -1,5 +1,5 @@
 ---
-title: Importing Alternative Sources in NVivo 14/15 for Mac | Map and Data Library
+title: Importing Alternative Sources in NVivo 14/15 for Mac 
 layout: home
 description: NVivo can handle many types of files, such as text, audio, videos, images, etc. You would import these from the Data menu, by choosing the appropriate option. However, this tutorial will show you two common sources of data that you might want to code in NVivo that are a bit more complicated to import.
 staff:
@@ -10,7 +10,7 @@ maintainer:
    link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
-# Importing Alternative Sources in NVivo 14/15 for Mac | Map and Data Library
+# Importing Alternative Sources in NVivo 14/15 for Mac 
 
 NVivo can handle many types of files, such as text, audio, videos, images, etc. You would import these from the Data menu, by choosing the appropriate option. However, this tutorial will show you a common source of data that you might want to code in NVivo that is a bit more complicated to import.
 
