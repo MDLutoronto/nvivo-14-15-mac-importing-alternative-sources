@@ -3,11 +3,12 @@ title: Importing Alternative Sources in NVivo 14/15 for Mac
 layout: home
 description: NVivo can handle many types of files, such as text, audio, videos, images, etc. You would import these from the Data menu, by choosing the appropriate option. However, this tutorial will show you two common sources of data that you might want to code in NVivo that are a bit more complicated to import.
 staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz 
 maintainer:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz 
+created_date: 2023-11-20
 ---
 
 # Importing Alternative Sources in NVivo 14/15 for Mac 
@@ -118,4 +119,3 @@ Check out [this NVivo help page](https://help-nv.qsrinternational.com/15/mac/Con
 
 **Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
 
-**Date Created:** 2023\-11\-20**Updated:** 2026\-02\-09
