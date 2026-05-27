@@ -1,5 +1,5 @@
 ---
-title: Importing Alternative Sources in NVivo 14/15 for Mac 
+title: Importing Alternative Sources in NVivo 15 for Mac 
 layout: home
 description: NVivo can handle many types of files, such as text, audio, videos, images, etc. You would import these from the Data menu, by choosing the appropriate option. However, this tutorial will show you two common sources of data that you might want to code in NVivo that are a bit more complicated to import.
 staff:
@@ -11,7 +11,7 @@ maintainer:
 created_date: 2023-11-20
 ---
 
-# Importing Alternative Sources in NVivo 14/15 for Mac 
+# Importing Alternative Sources in NVivo 15 for Mac 
 
 NVivo can handle many types of files, such as text, audio, videos, images, etc. You would import these from the Data menu, by choosing the appropriate option. However, this tutorial will show you a common source of data that you might want to code in NVivo that is a bit more complicated to import.
 
@@ -20,7 +20,7 @@ Survey Data
 
 A common data type that you might want to use NVivo to analyze is survey data. NVivo can import survey data in directly if you have your survey data stored in a spreadsheet, where each row is a survey respondent’s answers and each column is a question.
 
-Note: This activity assumes you are familiar with case classifications and cases in NVivo. If case classifications and cases in NVivo is new to you, you can learn more in our [Introduction to NVivo 14/15 tutorial](https://mdl.library.utoronto.ca/technology/tutorials/introduction-nvivo-14-mac)!
+Note: This activity assumes you are familiar with case classifications and cases in NVivo. If case classifications and cases in NVivo is new to you, you can learn more in our [Introduction to NVivo 15 tutorial](https://mdl.library.utoronto.ca/technology/tutorials/introduction-nvivo-14-mac)!
 
 1. To start, let's **download a small sample of survey data** called the [Millennial Sentiment Interview Transcript Dataset](https://www.kaggle.com/parmarmanojkumar/msitd?select=Interview_Database.xlsx). This data set is hosted on Kaggle, which is an public data platform. To download this data you’ll first have to **register for a free account** (or sign in if you already have one). **Click Register** at the top right of the website.
 
@@ -113,7 +113,7 @@ Note: This activity assumes you are familiar with case classifications and cases
 Resources to Learn More
 -----------------------
 
-Visit our [Introduction to NVivo 14/15 for Mac](https://mdl.library.utoronto.ca/technology/tutorials/introduction-nvivo-1415-mac) page for more information and tutorials on NVivo 14/15!
+Visit our [Introduction to NVivo 15 for Mac](https://mdl.library.utoronto.ca/technology/tutorials/introduction-nvivo-1415-mac) page for more information and tutorials on NVivo 15!
 
 Check out [this NVivo help page](https://help-nv.qsrinternational.com/15/mac/Content/files/files.htm) to explore all the file types you can import into an NVivo project.
 
