@@ -56,7 +56,7 @@ Note: This activity assumes you are familiar with case classifications and cases
 
     *Note: In order to use this autocode sentiment feature, you need to sign up for a [MyLumivero Portal](https://lumivero.com/mylumivero/) account. Launch the [MyLumivero Portal](https://my.lumivero.com/), select Sign up now, and follow the instructions to create an account. You then will need to log into the portal with this account first, before selecting autocode sentiment in the survey import wizard. When you first start up NVivo, log in by selecting File->Log In. Keep in mind, though, that the University of Toronto has not reviewed these accounts for privacy concerns. You sign up for an account at your own risk.* 
 
-    In our case, let’s uncheck this option for now. Then click Finish to complete importing in our data.
+    In our case, let’s uncheck this option for now. Then click Import to complete importing in our data.
 
     <img src="{{ '/assets/images/NVIVO14_MAC_SurveyData_7.png' | relative_url }}" alt='Import Dataset Assistant step 5 with Import highlighted. ' title='' width='773' height='572' />
 
