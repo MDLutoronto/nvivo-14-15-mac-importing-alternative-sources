@@ -20,7 +20,7 @@ Survey Data
 
 A common data type that you might want to use NVivo to analyze is survey data. NVivo can import survey data in directly if you have your survey data stored in a spreadsheet, where each row is a survey respondent’s answers and each column is a question.
 
-Note: This activity assumes you are familiar with case classifications and cases in NVivo. If case classifications and cases in NVivo is new to you, you can learn more in our [Introduction to NVivo 15 tutorial](https://mdl.library.utoronto.ca/technology/tutorials/introduction-nvivo-14-mac)!
+Note: This activity assumes you are familiar with case classifications and cases in NVivo. If case classifications and cases in NVivo is new to you, you can learn more in our [Introduction to NVivo 15 tutorial](https://mdlutoronto.github.io/nvivo-14-15-mac-intro/)!
 
 1. To start, let's **download a small sample of survey data** called the [Millennial Sentiment Interview Transcript Dataset](https://www.kaggle.com/parmarmanojkumar/msitd?select=Interview_Database.xlsx). This data set is hosted on Kaggle, which is an public data platform. To download this data you’ll first have to **register for a free account** (or sign in if you already have one). **Click Register** at the top right of the website.
 
@@ -33,7 +33,7 @@ Note: This activity assumes you are familiar with case classifications and cases
   
     <img src="{{ '/assets/images/NVIVO14_MAC_Survey%20Data_1b.png' | relative_url }}" alt='Kaggle page with Millennial Sentiment Interview Transcript Dataset. Download button highlighted.' title='' width='794' height='476' />
 
-2. Go to NVivo. From the left menu, under Data, **click on the Files folder**. Then under the Import tab, **select Dataset**.
+2. Go to NVivo. Create a new project file or open up an existing project file that you want to import this into. From the left menu, under Data, **click on the Files folder**. Then under the Import tab, **select Dataset**.
 
     <img src="{{ '/assets/images/NVivo_Alt_Sources_Mac_0001.png' | relative_url }}" alt='The Data menu is highlighted, along with Files, which is selected. Under the Import tab, Dataset is selected and highlighted. ' title='' width='747' height='172' />
 
@@ -52,9 +52,13 @@ Note: This activity assumes you are familiar with case classifications and cases
 
     <img src="{{ '/assets/images/NVIVO14_MAC_Survey%20Data_6.png' | relative_url }}" alt='Import Dataset Assistant step 4 with Next highlighted. ' title='' width='772' height='570' />
 
-7. Then **click Import** to complete importing in our data. You will see a progress screen.
+7. The next screen provides you an option to autocode responses by sentiment (i.e., positive or negative). Sentiment can be useful, especially if you have a huge amount of survey responses and won’t be manually coding all the answers, but want to get a sense of the content. For example, a survey question might be – did you like a particular product, and then NVivo can code for sentiment to see if generally people liked it or didn’t like it. 
 
-    <img src="{{ '/assets/images/NVIVO14_MAC_Survey%20Data_7.png' | relative_url }}" alt='Import Dataset Assistant step 5 with Import highlighted. ' title='' width='773' height='572' />
+    *Note: In order to use this autocode sentiment feature, you need to sign up for a [MyLumivero Portal](https://lumivero.com/mylumivero/) account. Launch the [MyLumivero Portal](https://my.lumivero.com/), select Sign up now, and follow the instructions to create an account. You then will need to log into the portal with this account first, before selecting autocode sentiment in the survey import wizard. When you first start up NVivo, log in by selecting File->Log In. Keep in mind, though, that the University of Toronto has not reviewed these accounts for privacy concerns. You sign up for an account at your own risk.* 
+
+    In our case, let’s uncheck this option for now. Then click Finish to complete importing in our data.
+
+    <img src="{{ '/assets/images/NVIVO14_MAC_SurveyData_7.png' | relative_url }}" alt='Import Dataset Assistant step 5 with Import highlighted. ' title='' width='773' height='572' />
 
 8. NVivo will open up the data when finished, as a spreadsheet display.
 
@@ -113,7 +117,7 @@ Note: This activity assumes you are familiar with case classifications and cases
 Resources to Learn More
 -----------------------
 
-Visit our [Introduction to NVivo 15 for Mac](https://mdl.library.utoronto.ca/technology/tutorials/introduction-nvivo-1415-mac) page for more information and tutorials on NVivo 15!
+Visit our [Introduction to NVivo 15 for Mac](https://mdlutoronto.github.io/nvivo-14-15-mac-intro/) page for more information and tutorials on NVivo 15!
 
 Check out [this NVivo help page](https://help-nv.qsrinternational.com/15/mac/Content/files/files.htm) to explore all the file types you can import into an NVivo project.
 
